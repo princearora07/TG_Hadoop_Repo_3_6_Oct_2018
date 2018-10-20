@@ -1,1 +1,1 @@
-hadoop fs -ls /
+hadoop fs -ls /users
