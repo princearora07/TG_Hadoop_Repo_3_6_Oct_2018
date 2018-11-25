@@ -1,0 +1,1 @@
+hadoop fs -put unix path/filename.*  /home/cloudera/src3/data/lz/filename.*
